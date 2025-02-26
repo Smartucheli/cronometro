@@ -32,7 +32,7 @@ function start_time() {
                 mm = 0
             } 
 
-            if (sec == 600){
+            if (sec == 60){
                 min++
                 sec = 0
             }
